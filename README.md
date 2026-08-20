@@ -1,7 +1,3 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=5c1010&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=5c1010"  />
-</div>
-
 ###
 
 <div data-importer="image" align="center">
@@ -68,10 +64,6 @@
 ![drk1337's GitHub Stats](https://readme-stats-github.pages.dev/api?username=drk1337&theme=shadow)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=drk1337&theme=shadow)
 ![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Void%20S3CURITY.&theme=shadow&color=%23000000&particleColor=%238d270e&background=%230d1117)
-###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=5c1010&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=5c1010"  />
-</div>
 
 ###
