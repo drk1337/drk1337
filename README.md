@@ -1,3 +1,9 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=5c1010&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=5c1010"  />
+</div>
+
+###
+
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://cdn.discordapp.com/attachments/1505036537686130698/1539937986526060647/js8z128.gif?ex=6a882282&is=6a86d102&hm=be639b0515c3639324f2feb8512a776fed714f36899a36172a8922471ba44691&"  />
 </div>
@@ -29,7 +35,7 @@
 
 ###
 
-<p data-importer="text" align="left">Im from Sweden and im currently studying to be a Cybersecurity specialist.<br><br><br>- 📚 I'm currently learning C/Assembly.</p>
+<p data-importer="text" align="left">Im from Sweden and im currently studying to be a Cybersecurity specialist.<br><br><br>- I'm currently learning **C/Assembly.**</p>
 
 ###
 
@@ -60,7 +66,14 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=drk1337&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouzar/maurodesouzar/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouzar/maurodesouzar/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=5c1010&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=5c1010"  />
 </div>
 
 ###
