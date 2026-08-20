@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leonit</h1>
+<h1 align="center">Hi 👋, I'm 0xNuhish</h1>
 <h3 align="center">A studying Cybersecurity Studen</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drk1337&label=Profile%20views&color=0e75b6&style=flat" alt="drk1337" /> </p>
