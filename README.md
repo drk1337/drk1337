@@ -63,7 +63,7 @@
 
 ![drk1337's GitHub Stats](https://readme-stats-github.pages.dev/api?username=drk1337&theme=shadow)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=drk1337&theme=shadow)
-![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Void%20S3CURITY.&theme=shadow&color=%238b8b8b&particleColor=%23000000&background=%230d1117)
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=V0id%20S3CURITY.&theme=shadow&color=%238b8b8b&particleColor=%23000000&background=%230d1117)
 
 
 ###
