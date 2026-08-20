@@ -66,6 +66,7 @@
 ###
 
 ![drk1337's GitHub Stats](https://readme-stats-github.pages.dev/api?username=drk1337&theme=shadow)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=drk1337&theme=shadow)
 
 ###
 
