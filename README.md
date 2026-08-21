@@ -31,7 +31,7 @@
 
 ###
 
-<p data-importer="text" align="left">Im from Sweden and im currently studying to be a <b>Cybersecurity specialist.</b><br><br><br>- I'm currently learning <b>C/Assembly.</b></p>
+<p data-importer="text" align="left">Im from Sweden and im currently studying to be a <b>Cybersecurity specialist.</b><br><br><br>- I'm currently learning <b>C/Assembly, & C#.</b></p>
 
 ###
 
